@@ -68,7 +68,7 @@ yarn start
 
 ## Multi-Language
 
-We have used next-i18next(https://github.com/isaachinman/next-i18next) package for supporting multi-language.
+
 
 - `/public/locales`: This folder contains all languages files. If you want to add more languages, please add your language specific folder.
 
